@@ -1,0 +1,16 @@
+body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(kg.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
+    #camera
+    {
+    height:400px;
+    width:400px;
+background-color:#0800ff;
+    }
